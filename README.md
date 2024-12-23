@@ -23,6 +23,7 @@ Welcome to my GitHub profile! I'm a frontend web developer specializing in build
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=fff&style=flat)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=flat)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxt.js&logoColor=fff&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff&style=flat)
 
 #### Backend & Tools
