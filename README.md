@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a frontend web developer specializing in build
 - 🌱 I’m currently learning **Next.js** and **Go (Golang)**.
 - 👯 I’m looking to collaborate on **open source projects** related to frontend or full-stack development.
 - 💬 Ask me about **JavaScript**, **React**, **Vue**, **Next.js**, or **Go**.
-- 📫 How to reach me: **[Contact Me](mailto:your-email@example.com)**.
+- 📫 How to reach me: **[Contact Me](mailto:aldi.rahmaddani12@gmail.com)**.
 - ⚡ Fun fact: I love exploring new **tech tools** and **meditation**!
 
 ---
@@ -54,9 +54,9 @@ Welcome to my GitHub profile! I'm a frontend web developer specializing in build
 
 ### 📫 Get in Touch:
 
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- 💻 Personal Website: [your-website.com](https://your-website.com)
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 💼 [LinkedIn](www.linkedin.com/in/aldi-rahmaddani-0587b8243)
+- 💻 [My Personal Site](https://your-website.com)
+- 📧 [Email](mailto:aldi.rahmaddani12@gmail.com)
 
 ---
 
