@@ -44,14 +44,6 @@ Welcome to my GitHub profile! I'm a frontend web developer specializing in build
 
 ---
 
-### 🏆 GitHub Trophies:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aldi-rahmaddani&theme=radical" alt="Aldi's GitHub Trophies" />
-</p>
-
----
-
 ### 📫 Get in Touch:
 
 - 💼 [LinkedIn](www.linkedin.com/in/aldi-rahmaddani-0587b8243)
