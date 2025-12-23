@@ -44,14 +44,6 @@ Welcome to my GitHub profile! I'm a frontend web developer specializing in build
 
 ---
 
-### 📫 Get in Touch:
-
-- 💼 [LinkedIn](www.linkedin.com/in/aldi-rahmaddani-0587b8243)
-- 💻 [My Personal Site](https://your-website.com)
-- 📧 [Email](mailto:aldi.rahmaddani12@gmail.com)
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aldi-rahmaddani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
